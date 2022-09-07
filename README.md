@@ -76,6 +76,6 @@ To run
 - Go to .env
 - Update dburl with your firebase URL
 - Update authdomain with your domain
-- Create your own auth.js file with your own database credentials
+- Create your own admin.json file with your own database credentials
 - Create account on SendGrid to use nodemailer
 - Update mailkey with your own key
