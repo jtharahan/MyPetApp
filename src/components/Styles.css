@@ -1,0 +1,90 @@
+.registerForm {
+    width: 850px;
+    height: 850px;
+    background-color: orange;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+.petForm {
+    width: 850px;
+    height: 650px;
+    background-color: orange;
+    
+    position: absolute;
+    top: -50;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    overflow-y: auto;
+}
+
+button {
+    background-color: green; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.loginForm {
+    width: 500px;
+    height: 450px;
+    background-color: orange;
+    
+    
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+.header {
+    background-color: orange;
+    height: 100px;
+    width: 100%;
+}
+
+.pet {
+    width: 400px;
+    height: 550px;
+    background-color: orange;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    
+
+    
+}
+
+.appt {
+    width: 400px;
+    height: 400px;
+    background-color: orange;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+
+}
