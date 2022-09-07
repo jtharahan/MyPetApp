@@ -9,5 +9,5 @@ function App() {
     </Route>
   );
 }
-
+// exporting app
 export default App;
